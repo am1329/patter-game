@@ -1,1 +1,1 @@
-# patter-game
+# pattern-game
